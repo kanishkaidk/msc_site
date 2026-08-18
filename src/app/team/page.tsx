@@ -24,93 +24,155 @@ interface TeamMember {
 
 const teamMembers: TeamMember[] = [
   {
-    name: "Amaira Aggarwal",
-    role: "PRESIDENT",
-    imageUrl: "/team_images/amaira.jpg",
-    socials: {
-      instagram: "https://www.instagram.com/amairaa_agg/",
-      linkedin: "https://www.linkedin.com/in/amaira-aggarwal-981b73283",
-    },
-  },
-  {
-    name: "Nandini Bansal",
-    role: "PRESIDENT",
-    imageUrl: "/team_images/nandini.png",
-    socials: {
-      instagram: "https://www.instagram.com/im__peehu?igsh=MWgxNHlnMTVkNHAyaQ%3D%3D",
-      linkedin: "https://www.linkedin.com/in/nandinibansal1524/",
-    },
-  },
-  {
-    name: "Urvashi Yadav",
-    role: "SECRETARY",
-    imageUrl: "/team_images/UrvashiYadavSec.jpg",
-    socials: {
-      instagram: "https://instagram.com/amaira",
-      linkedin: "https://www.linkedin.com/in/urvashiyadav2004/",
-    },
-  },
-  {
-    name: "Daisy Sorokhaibam",
-    role: "SECRETARY",
-    imageUrl: "/team_images/DaisySorokhaibamSecretary.png",
-    socials: {
-      instagram: "https://www.instagram.com/daisythekermit/",
-      linkedin: "https://www.linkedin.com/in/daisy-sorokhaibam-0bab4a280/",
-    },
-  },
-  {
-    name: "Anshika Sharma",
-    role: "WEB DEVELOPMENT LEAD",
-    imageUrl: "/team_images/AnshikaSharma_Webd.png",
-    socials: {
-      instagram: "https://www.instagram.com/anshikaa_2024/",
-      linkedin: "https://www.linkedin.com/in/anshika-sharma-8b578822a/",
-    },
-  },
-  {
     name: "Arzoo Patra",
-    role: "MEDIA LEAD",
-    imageUrl: "/team_images/ArzooPatra_MediaTeam_Lead.jpg",
+    role: "CHAIRPERSON",
+    imageUrl: "/team_images/Arzoo_CP.png",
     socials: {
-      instagram: "https://www.instagram.com/arzivelle",
+      instagram: "https://www.instagram.com/arzooxcreates/",
       linkedin: "https://www.linkedin.com/in/arzoopatra/",
     },
   },
   {
-    name: "Shreya Tejan",
+    name: "Urvashi Yadav",
+    role: "CHAIRPERSON",
+    imageUrl: "/team_images/UrvashiYadavSec.jpg",
+    socials: {
+      instagram: "https://www.instagram.com/urvashi2004/",
+      linkedin: "https://www.linkedin.com/in/urvashiyadav2004/",
+    },
+  },
+  {
+    name: "Riddhi Sharma",
+    role: "PRESIDENT",
+    imageUrl: "/team_images/Riddhi_Pres.png",
+    socials: {
+      instagram: "https://www.instagram.com/riddhi_sharrmaa/",
+      linkedin: "https://www.linkedin.com/in/riddhi-sharma-b1960b315/",
+    },
+  },
+  {
+    name: "Paridhi Sharma",
+    role: "PRESIDENT",
+    imageUrl: "/team_images/Paridhi Pres.png",
+    socials: {
+      instagram: "https://www.instagram.com/aphelion.xo/",
+      linkedin: "https://www.linkedin.com/in/theparidhisharma/",
+    },
+  },
+  {
+    name: "Kanishka",
+    role: "VICE PRESIDENT",
+    imageUrl: "/team_images/Kanishka_VP.png",
+    socials: {
+      instagram: "https://www.instagram.com/kanishka.idk/",
+      linkedin: "https://www.linkedin.com/in/kanishkaidk/",
+    },
+  },
+  {
+    name: "Anupriya",
+    role: "VICE PRESIDENT",
+    imageUrl: "/team_images/Anupriya_VP.png",
+    socials: {
+      instagram: "#",
+      linkedin: "https://www.linkedin.com/in/anupriya-7a8584322/",
+    },
+  },
+  {
+    name: "Sakshi Aggarwal",
+    role: "WEB DEVELOPMENT LEAD",
+    imageUrl: "/team_images/Sakshi_Aggarwal_Weblead.png",
+    socials: {
+      instagram: "https://www.instagram.com/sakshiaggarwal.__/",
+      linkedin: "https://www.linkedin.com/in/sakshi-aggarwal-3149bb301/",
+    },
+  },
+  {
+    name: "Deepanshi Ruhil",
+    role: "MEDIA LEAD",
+    imageUrl: "/team_images/Deepanshi.png",
+    socials: {
+      instagram: "https://www.instagram.com/deepanshi.ruhil/",
+      linkedin: "https://www.linkedin.com/in/deepanshiruhil1/",
+    },
+  },
+  {
+    name: "Aakanksha Ekka",
+    role: "MEDIA LEAD",
+    imageUrl: "/team_images/Aakanksha_media.png",
+    socials: {
+      instagram: "https://www.instagram.com/tacostalll/",
+      linkedin: "https://www.linkedin.com/in/aakanksha-ekka-3b1166329/",
+    },
+  },
+  {
+    name: "Lakshita Singh",
     role: "CONTENT LEAD",
-    imageUrl: "/team_images/shreya_tejan.jpg",
+    imageUrl: "/team_images/Lakshita_content.png",
     socials: {
-      instagram: "https://www.instagram.com/shreya_officio/",
-      linkedin: "https://www.linkedin.com/in/shreyatejan/",
+      instagram: "https://www.instagram.com/lakshitasinghhh/",
+      linkedin: "https://www.linkedin.com/in/lakshita-singh-779116344/",
     },
   },
   {
-    name: "Shreya Gupta",
+    name: "Divija Tewari",
+    role: "CONTENT LEAD",
+    imageUrl: "/team_images/Divija_content.webp",
+    socials: {
+      instagram: "https://www.instagram.com/divijatewari/",
+      linkedin: "https://www.linkedin.com/in/divija-tewari-6b195b367/",
+    },
+  },
+  {
+    name: "Aashi Garg",
     role: "EVENT MANAGEMENT LEAD",
-    imageUrl: "/team_images/Shreya Gupta_EM.jpg",
+    imageUrl: "/team_images/Aashi_garg_EM lead.png",
     socials: {
-      instagram: "https://instagram.com/amaira",
-      linkedin: "https://www.linkedin.com/in/shreya-gupta-a783b9270/",
+      instagram: "https://www.instagram.com/aashi._.garg_/",
+      linkedin: "https://www.linkedin.com/in/aashi-garg-3b6713326/",
     },
   },
   {
-    name: "Vedanshi Mishra",
+    name: "Vaishnavi Verma",
+    role: "EVENT MANAGEMENT LEAD",
+    imageUrl: "/team_images/Vaishnavi_EMlead.png",
+    socials: {
+      instagram: "https://www.instagram.com/_vaishmeluck/",
+      linkedin: "https://www.linkedin.com/in/vaishnavi-verma-1141a9305/",
+    },
+  },
+  {
+    name: "Sanvi Sagar",
     role: "PUBLIC RELATIONS LEAD",
-    imageUrl: "/team_images/VedanshiPrLead.png",
+    imageUrl: "/team_images/Sanvi_PR lead.png",
     socials: {
-      instagram: "https://instagram.com/amaira",
-      linkedin: "https://www.linkedin.com/in/vedanshi-mishra-315572280/",
+      instagram: "https://www.instagram.com/saannvviiiii_21/",
+      linkedin: "https://www.linkedin.com/in/sanvi-sagar-17457b324/",
     },
   },
   {
-    name: "SIYA KHETAN",
-    role: "SPONSORSHIP LEAD",
-    imageUrl: "/team_images/SiyaKhetanSponsiHead.png",
+    name: "Ruzal Singla",
+    role: "PUBLIC RELATIONS LEAD",
+    imageUrl: "/team_images/Ruzal_PR.png",
     socials: {
-      instagram: "https://www.instagram.com/_siyakhetan",
-      linkedin: "https://www.linkedin.com/in/siya-khetan-b95267252/",
+      instagram: "https://www.instagram.com/__.ruzal.__/",
+      linkedin: "https://www.linkedin.com/in/ruzal-singla-a05861324/",
+    },
+  },
+  {
+    name: "Unnati Gautam",
+    role: "SPONSORSHIP LEAD",
+    imageUrl: "/team_images/Unnati_sponsilead.jpg",
+    socials: {
+      instagram: "https://www.instagram.com/unnatiigautam/",
+      linkedin: "https://www.linkedin.com/in/unnati-gautam-906521382/",
+    },
+  },  {
+    name: "Kavya Pandey",
+    role: "SPONSORSHIP LEAD",
+    imageUrl: "/team_images/Kavya SponsiLead.png",
+    socials: {
+      instagram: "https://www.instagram.com/kia00652/",
+      linkedin: "https://www.linkedin.com/in/kavya-pandey-54594237a/",
     },
   },
 ];
@@ -182,8 +244,8 @@ export default function TeamPage() {
       </div> */}
 
       {/* Team Cards */}
-      <div className="relative z-20 mt-20 w-full flex justify-center">
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-14 max-w-5xl">
+      <div className="relative z-20 mt-20 w-full flex justify-center px-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-12 max-w-7xl">
           {teamMembers.map((member, index) => (
             <Tilt key={index} className="rounded-xl glow-card group">
               <div className="relative overflow-hidden rounded-xl shadow-lg w-full max-w-[320px] h-[350px] bg-black/40 backdrop-blur-md border border-white/10 mx-auto">
