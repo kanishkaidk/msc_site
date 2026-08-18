@@ -71,7 +71,7 @@ const teamMembers: TeamMember[] = [
   {
     name: "Anupriya",
     role: "VICE PRESIDENT",
-    imageUrl: "/team_images/Anupriya_VP.png",
+    imageUrl: "/team_images/Anupriya_VP.jpeg",
     socials: {
       instagram: "#",
       linkedin: "https://www.linkedin.com/in/anupriya-7a8584322/",
